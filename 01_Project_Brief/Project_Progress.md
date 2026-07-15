@@ -46,3 +46,25 @@
 - [ ] Case study written
 - [ ] Upwork portfolio published
 - [ ] LinkedIn project published
+
+## Stage 1B — Professional Business Brief
+
+**Status:** Completed  
+**Completion Date:** 16 July 2026
+
+### Work Completed
+
+- Defined the fictional client and retail business context.
+- Documented the main business reporting problem.
+- Established the project objectives and scope.
+- Defined the executive business questions.
+- Selected the principal sales and profitability KPIs.
+- Documented the project deliverables.
+- Established the technical approach and technology stack.
+- Defined the proposed Power BI dashboard pages.
+- Added the project timeline, success criteria and expected business value.
+- Included a portfolio disclaimer to distinguish the fictional scenario from a real client engagement.
+
+### Stage Outcome
+
+The project now has a consulting-style business foundation that connects the technical dashboard work to clear management objectives and measurable business value.
